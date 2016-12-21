@@ -14,6 +14,15 @@ public class User {
     private String mState;
     private String mMobilePhoneNumber;
     private String mHomePhoneNumber;
+    private Entry mEntries;
+
+    public Entry getEntries() {
+        return mEntries;
+    }
+
+    public void setEntries(Entry entries) {
+        mEntries = entries;
+    }
 
     public String getFirstName() {
         return mFirstName;
