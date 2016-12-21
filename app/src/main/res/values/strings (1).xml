@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Under Control</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="pick_entry_type">What would you like to add?</string>
+    <string name="main_header">Please enter your values below</string>
+    <string name="blood_glucose_hint">Blood Glucose Reading</string>
+    <string name="mealtime_insulin_entry">Mealtime insulin (units)</string>
+    <string name="longActing_insulin_entry">Long acting insulin (units)</string>
+    <string name="add_button">ADD</string>
+    <array name="entry_type">
+        <item>Blood Glucose Reading</item>
+        <item>Meal Time Insulin</item>
+        <item>Long Acting Insulin</item>
+    </array>
+</resources>
